@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kalevala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kalevala\\.nuget\\packages"
+    ]
+  }
+}
