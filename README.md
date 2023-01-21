@@ -1,5 +1,13 @@
-# stickynotes
-Sticky notes done in C# and Winforms, inspired by the Windows Sticky Notes app. #notutorial
+# codecool-series
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+*  [Setup](#setup)
+*  [Screenshots](#screenshots)
+* [Credits](#credits)
+
+## General info
+Sticky notes done in C# and Winforms, inspired by the Windows Sticky Notes app.
 
 Current features:
 * can open multiple windows;
@@ -11,5 +19,29 @@ To do:
 * implement auto save/auto load;
 * improve text functions;
 * add a nice-looking scrollbar;
-* get rid of the weird stripe at the top of the window;
-* get rid of the ugly tool strip borders without messing up the rest of the layout.
+* remove stripe at the top of the window;
+* remove tool strip borders.
+
+## Technologies
+* C#
+* WinForms
+* .Net Framework version 5.0
+
+## Setup
+Run the following commands in terminal/command prompt to create and run a debug mode application:
+``` 
+dotnet build
+.\bin\Debug\net5.0-windows\stickynotes.exe
+```
+
+## Screenshots
+![stickynotes](https://user-images.githubusercontent.com/61357898/213884179-e9abbfbb-04a7-4905-ba06-b25720deb9ee.png)
+
+## Credits
+Credits to Microsoft who developed the original Sticky Notes app that was the inspiration.
+
+
+
+
+
+
