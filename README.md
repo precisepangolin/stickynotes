@@ -1,4 +1,4 @@
-# codecool-series
+# Sticky notes
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
