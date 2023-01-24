@@ -37,6 +37,11 @@ dotnet build
 ## Screenshots
 ![stickynotes](https://user-images.githubusercontent.com/61357898/213884179-e9abbfbb-04a7-4905-ba06-b25720deb9ee.png)
 
+<details>
+<summary>Click for gif</summary>
+<img src="https://user-images.githubusercontent.com/61357898/214311201-65f1c159-15e5-469e-aba6-fa4c5eb8960f.gif">
+</details>
+
 ## Credits
 Credits to Microsoft who developed the original Sticky Notes app that was the inspiration.
 
